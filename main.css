@@ -21,6 +21,9 @@ a {
     color:dimgray;
     text-decoration: none;
 }
+#skills{
+padding-bottom: 50px;
+}
 header {
     top: 0px;
     left: 0px;
@@ -28,8 +31,14 @@ header {
     padding: 0px;
     background-color: powderblue;
 }
+footer {
+font-weight: lighter;
+font-size: smaller;
+
+}
 
 #photo{
+    margin-top: 100px;
     border-radius: 50%;
 }
 .column {
